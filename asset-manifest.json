@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d141b9a.css",
-    "main.js": "/static/js/main.e54e89ba.js",
+    "main.css": "/static/css/main.0333baed.css",
+    "main.js": "/static/js/main.eba59309.js",
     "static/js/787.ca5d4de0.chunk.js": "/static/js/787.ca5d4de0.chunk.js",
+    "static/media/bg.jpg": "/static/media/bg.490ff30399508c320d1f.jpg",
     "static/media/bnr.svg": "/static/media/bnr.29971e837dbf3b3ca43cd7b33f27a736.svg",
     "static/media/bibit-logo.svg": "/static/media/bibit-logo.68d52437fb1a4bd7579916a65a746fc1.svg",
     "static/media/bibit-black.svg": "/static/media/bibit-black.9898aea5f858587dbdf2406fd20a7011.svg",
@@ -11,17 +12,17 @@
     "static/media/profile.svg": "/static/media/profile.a5f250e5402f5f1072648e7b9026a7a2.svg",
     "static/media/playstore.svg": "/static/media/playstore.7325662ffe16908c67e4110093593935.svg",
     "static/media/apple.svg": "/static/media/apple.656773257d8c919e1dc5e5230364b8ba.svg",
-    "index.html": "/index.html",
     "static/media/delivery.svg": "/static/media/delivery.f1650ddf30a566fc8354fab770b6e38f.svg",
     "static/media/cus.svg": "/static/media/cus.5df2a81a1c11530ad414a144692dc533.svg",
+    "index.html": "/index.html",
     "static/media/service-icon.svg": "/static/media/service-icon.3b3601e08e8bf6a542e2bb25e60ad500.svg",
     "static/media/full-service.svg": "/static/media/full-service.2ee2138ccf7b1626e178168a2629fcb4.svg",
-    "main.7d141b9a.css.map": "/static/css/main.7d141b9a.css.map",
-    "main.e54e89ba.js.map": "/static/js/main.e54e89ba.js.map",
+    "main.0333baed.css.map": "/static/css/main.0333baed.css.map",
+    "main.eba59309.js.map": "/static/js/main.eba59309.js.map",
     "787.ca5d4de0.chunk.js.map": "/static/js/787.ca5d4de0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d141b9a.css",
-    "static/js/main.e54e89ba.js"
+    "static/css/main.0333baed.css",
+    "static/js/main.eba59309.js"
   ]
 }
